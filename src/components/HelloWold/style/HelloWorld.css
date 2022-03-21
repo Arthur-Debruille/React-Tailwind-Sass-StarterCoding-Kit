@@ -1,0 +1,21 @@
+.welcome {
+  background: salmon;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 5px 20px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.welcome h1 {
+  color: #333;
+  width: auto;
+  -webkit-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+}
+
+.welcome h1:hover {
+  color: white;
+}
+/*# sourceMappingURL=HelloWorld.css.map */

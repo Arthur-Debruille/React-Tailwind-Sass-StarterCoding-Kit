@@ -1,0 +1,16 @@
+.welcome{
+    background: salmon;
+    width: fit-content;
+    padding: 5px 20px;
+    cursor: pointer;
+    border-radius: 25px;
+
+    h1 {
+        color: #333;
+        width: auto;
+        transition: .5s ease-in-out;
+        &:hover{
+            color: white;
+        }
+    }
+}
