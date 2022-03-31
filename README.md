@@ -1,5 +1,5 @@
 # Complex - React - StarterKit
-
+J'ai crée mon propre staterkit, pour commencer de coder le plus rapidement possible dès qu'un projet commence et éviter de perdre du temps à tout mettre en place.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
